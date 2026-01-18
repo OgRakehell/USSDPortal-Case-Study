@@ -10,6 +10,10 @@
 
 ## End-to-End Flow
 
+> A process flow of the USSDPortal
+
+![USSDPortal](/Assets/USSDPortal.drawio.png)
+
 ### 1. Customer Submits Documents
 
 - Account Opening Form (AOF)
